@@ -1,7 +1,9 @@
 server:
   port: 8002
-spring:
 
+spring:
   application:
     name: hr-payroll
 
+hr-worker:
+  host: http://localhost:8001/workers
