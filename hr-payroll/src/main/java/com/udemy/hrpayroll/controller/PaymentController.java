@@ -1,6 +1,6 @@
 package com.udemy.hrpayroll.controller;
 
-import com.udemy.hrpayroll.Service.PaymentService;
+import com.udemy.hrpayroll.service.PaymentService;
 import com.udemy.hrpayroll.entity.Payment;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
